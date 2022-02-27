@@ -9,6 +9,7 @@ To run the Project you will need to run the API then run the UI using 'npm i' to
 
 Further enhancemnet to be done:
 API:
+
 -Implement Integration testing.
 
 -Implement handling error module to throw errors (eg. badRequest, notFound) from services to be catched in the controller and in this case CreateBookingResponseModel will only hold the Id, 
