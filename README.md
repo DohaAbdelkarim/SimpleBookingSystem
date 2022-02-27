@@ -20,7 +20,11 @@ Error codes will be applied accroding to the HttpStatusCode we return, the UI wi
 
 -Enhance the Mail Service to be able to send mail accroding to determined mails acroding to the event(eg. book a resouce, cancel a booking).
 
+
 SimpleBookingSystemUI:
+
 -Enhance the styling
+
 -add validation messages
+
 -Implement HttpInterceptor to handle the api httpStatusResposes in case there is any error.
