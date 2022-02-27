@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Doha\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Doha\\.nuget\\packages"
+    ]
+  }
+}
