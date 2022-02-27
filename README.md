@@ -4,7 +4,8 @@ SimpleBookingSystem solution contain 3 projects:
 1) SimpleBookingSystem.API -.Net core API-
 2) SimpleBookingSystem.UnitTest -Xunit .Net core project-
 3) SimpleBookingSystemUI -Angular app-
-To run the task you will need to run the api then run the UI using 'npm i' then 'ng serve' as they are in separate projects.
+
+To run the Project you will need to run the API then run the UI using 'npm i' to install the packages and 'ng serve' as they are in separate projects.
 
 Further enhancemnet to be done:
 API:
