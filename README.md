@@ -8,7 +8,8 @@ SimpleBookingSystem solution contain 3 projects:
 To run the Project you will need to run the API then run the UI using 'npm i' to install the packages and 'ng serve' as they are in separate projects.
 
 Further enhancemnet to be done:
-API:
+
+SimpleBookingSystem.API:
 
 -Implement Integration testing.
 
@@ -19,7 +20,7 @@ Error codes will be applied accroding to the HttpStatusCode we return, the UI wi
 
 -Enhance the Mail Service to be able to send mail accroding to determined mails acroding to the event(eg. book a resouce, cancel a booking).
 
-UI:
+SimpleBookingSystemUI:
 -Enhance the styling
 -add validation messages
 -Implement HttpInterceptor to handle the api httpStatusResposes in case there is any error.
